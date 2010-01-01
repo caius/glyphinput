@@ -362,18 +362,21 @@
 		911B254F0BD6976C003800AB /* Development */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				GCC_ENABLE_OBJC_GC = YES;
 			};
 			name = Development;
 		};
 		911B25500BD6976C003800AB /* Deployment */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				GCC_ENABLE_OBJC_GC = YES;
 			};
 			name = Deployment;
 		};
 		911B25510BD6976C003800AB /* Default */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				GCC_ENABLE_OBJC_GC = YES;
 			};
 			name = Default;
 		};
